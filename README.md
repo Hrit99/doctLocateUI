@@ -7,6 +7,8 @@ Features :-
 3. Dark and Light theme on just a click of button.
 
 Some screenshots of the application :
+
+
 ![image](https://user-images.githubusercontent.com/43970492/133974985-a3ebec5e-982b-41a9-ac8f-abed41fd0fb6.png)
 ![image](https://user-images.githubusercontent.com/43970492/133975053-d2d1e15c-e1d2-47e5-ba18-721c350b2ca9.png)
 ![image](https://user-images.githubusercontent.com/43970492/133975084-09677d15-a27b-4df0-ad28-99d3c85e2fbd.png)
